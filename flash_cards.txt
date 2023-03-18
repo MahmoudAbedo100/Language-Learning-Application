@@ -1,0 +1,1 @@
+[('hey', 'Hé'), ('cheese', 'fromage'), ('chicken', 'poulet'), ('hen', 'poule')]
